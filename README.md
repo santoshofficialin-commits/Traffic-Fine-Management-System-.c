@@ -41,6 +41,16 @@ traffic-rule-engine-c/
 └── .gitignore
 
 
+## 🔄 How It Works
+
+1. Accepts vehicle type and speed details
+2. Compares speed against the legal limit
+3. Applies fine based on violation severity
+4. Adds penalties for safety and license violations
+5. Displays the final calculated fine
+
+
+
 ## 🛠️ How to Build & Run
 
 ```bash
